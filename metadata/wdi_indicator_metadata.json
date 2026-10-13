@@ -1,0 +1,344 @@
+[
+  {
+    "task": "agricultural_land_percent",
+    "series": "AG.LND.AGRI.ZS",
+    "original_filename": "agricultural_land_percent_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": "100",
+        "total": 1
+      },
+      [
+        {
+          "id": "AG.LND.AGRI.ZS",
+          "name": "Agricultural land (% of land area)",
+          "unit": "",
+          "source": {
+            "id": "2",
+            "value": "World Development Indicators"
+          },
+          "sourceNote": "Agricultural land refers to the share of land area that is arable, under permanent crops, and under permanent pastures. Arable land includes land defined by the FAO as land under temporary crops (double-cropped areas are counted once), temporary meadows for mowing or for pasture, land under market or kitchen gardens, and land temporarily fallow. Land abandoned as a result of shifting cultivation is excluded. Land under permanent crops is land cultivated with crops that occupy the land for long periods and need not be replanted after each harvest, such as cocoa, coffee, and rubber. This category includes land under flowering shrubs, fruit trees, nut trees, and vines, but excludes land under trees grown for wood or timber. Permanent pasture is land used for five or more years for forage, including natural and cultivated crops.",
+          "sourceOrganization": "FAO electronic files and web site, Food and Agriculture Organization of the United Nations (FAO), publisher: Food and Agriculture Organization of the United Nations (FAO)",
+          "topics": [
+            {
+              "id": "1",
+              "value": "Agriculture & Rural Development  "
+            },
+            {
+              "id": "19",
+              "value": "Climate Change"
+            },
+            {
+              "id": "6",
+              "value": "Environment "
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "task": "co2_emissions",
+    "series": "EN.GHG.CO2.PC.CE.AR5",
+    "original_filename": "co2_emissions_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 0,
+        "per_page": "100",
+        "total": 0
+      },
+      []
+    ]
+  },
+  {
+    "task": "education_expenditure",
+    "series": "SE.XPD.TOTL.GD.ZS",
+    "original_filename": "education_expenditure_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": "100",
+        "total": 1
+      },
+      [
+        {
+          "id": "SE.XPD.TOTL.GD.ZS",
+          "name": "Government expenditure on education, total (% of GDP)",
+          "unit": "",
+          "source": {
+            "id": "2",
+            "value": "World Development Indicators"
+          },
+          "sourceNote": "General government expenditure on education (current, capital, and transfers) is expressed as a percentage of GDP. It includes expenditure funded by transfers from international sources to government. General government usually refers to local, regional and central governments.",
+          "sourceOrganization": "Data API, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources, note: The data are obtained through the UIS API.  Detailed documentation is available at: https://api.uis.unesco.org/api/public/documentation/, publisher: UNESCO Institute for Statistics (UIS), date accessed: 2026-03-19, date published: 2026-02",
+          "topics": [
+            {
+              "id": "4",
+              "value": "Education "
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "task": "electricity_access_percent",
+    "series": "EG.ELC.ACCS.ZS",
+    "original_filename": "electricity_access_percent_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": "100",
+        "total": 1
+      },
+      [
+        {
+          "id": "EG.ELC.ACCS.ZS",
+          "name": "Access to electricity (% of population)",
+          "unit": "",
+          "source": {
+            "id": "2",
+            "value": "World Development Indicators"
+          },
+          "sourceNote": "Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.",
+          "sourceOrganization": "SDG 7.1.1 Electrification Dataset, World Bank (WB), uri: https://trackingsdg7.esmap.org/downloads, note: Data is downloaded from ESMAP website. Data is released when a new Tracking SDG7 report is released., publisher: World Bank (WB), date accessed: 2024-05-16, date published: 2023",
+          "topics": [
+            {
+              "id": "5",
+              "value": "Energy & Mining "
+            },
+            {
+              "id": "19",
+              "value": "Climate Change"
+            },
+            {
+              "id": "6",
+              "value": "Environment "
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "task": "gdp",
+    "series": "NY.GDP.MKTP.CD",
+    "original_filename": "gdp_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": "100",
+        "total": 1
+      },
+      [
+        {
+          "id": "NY.GDP.MKTP.CD",
+          "name": "GDP (current US$)",
+          "unit": "",
+          "source": {
+            "id": "2",
+            "value": "World Development Indicators"
+          },
+          "sourceNote": "Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. This indicator is expressed in current prices, meaning no adjustment has been made to account for price changes over time. This indicator is expressed in United States dollars.",
+          "sourceOrganization": "Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+          "topics": [
+            {
+              "id": "3",
+              "value": "Economy & Growth"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "task": "gdp_ppp",
+    "series": "SL.GDP.PCAP.EM.KD",
+    "original_filename": "gdp_ppp_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": "100",
+        "total": 1
+      },
+      [
+        {
+          "id": "SL.GDP.PCAP.EM.KD",
+          "name": "GDP per person employed (constant 2021 PPP $)",
+          "unit": "",
+          "source": {
+            "id": "2",
+            "value": "World Development Indicators"
+          },
+          "sourceNote": "GDP per person employed is gross domestic product (GDP) divided by total employment in the economy. Purchasing power parity (PPP) GDP is GDP converted to 2021 constant international dollars using PPP rates. An international dollar has the same purchasing power over GDP that a U.S. dollar has in the United States.",
+          "sourceOrganization": "Staff estimates, World Bank (WB), note: Estimates are based on employment, population, GDP, and PPP data obtained from International Labour Organization, United Nations Population Division, Eurostat, OECD, and World Bank., type: estimates based on external database;\nInternational Labour Organization (ILO);\nUnited Nations (UN), publisher: UN Population Division;\nEurostat (ESTAT);\nOrganisation for Economic Co-operation and Development (OECD);\nWorld Development Indicators database, World Bank (WB)",
+          "topics": [
+            {
+              "id": "10",
+              "value": "Social Protection & Labor"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "task": "maternal_mortality_ratio",
+    "series": "SH.STA.MMRT",
+    "original_filename": "maternal_mortality_ratio_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": "100",
+        "total": 1
+      },
+      [
+        {
+          "id": "SH.STA.MMRT",
+          "name": "Maternal mortality ratio (modeled estimate, per 100,000 live births)",
+          "unit": "",
+          "source": {
+            "id": "2",
+            "value": "World Development Indicators"
+          },
+          "sourceNote": "Maternal mortality ratio is the number of women who die from pregnancy-related causes while pregnant or within 42 days of pregnancy termination per 100,000 live births. The data are estimated with a regression model using information on the proportion of maternal deaths among non-AIDS deaths in women ages 15-49, fertility, birth attendants, and GDP measured using purchasing power parities (PPPs).",
+          "sourceOrganization": "Trends in Maternal Mortality, World Health Organization (WHO), uri: https://www.who.int/news/item/23-02-2023-a-woman-dies-every-two-minutes-due-to-pregnancy-or-childbirth--un-agencies;\nUN Children's Fund (UNICEF), note: Trends in Maternal Mortality;\nUN Population Fund (UNFPA), note: Trends in Maternal Mortality;\nWorld Bank Group (WBG), note: Trends in Maternal Mortality",
+          "topics": [
+            {
+              "id": "8",
+              "value": "Health "
+            },
+            {
+              "id": "17",
+              "value": "Gender"
+            },
+            {
+              "id": "2",
+              "value": "Aid Effectiveness "
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "task": "population",
+    "series": "SP.POP.TOTL",
+    "original_filename": "population_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": "100",
+        "total": 1
+      },
+      [
+        {
+          "id": "SP.POP.TOTL",
+          "name": "Population, total",
+          "unit": "",
+          "source": {
+            "id": "2",
+            "value": "World Development Indicators"
+          },
+          "sourceNote": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.",
+          "sourceOrganization": "World Population Prospects, United Nations (UN), uri: https://population.un.org/wpp/, publisher: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs), uri: https://unstats.un.org/home/nso_sites/, publisher: National Statistical Offices;\nEurostat: Demographic Statistics, Eurostat (ESTAT), uri: https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly, publisher: Eurostat;\nPopulation and Vital Statistics Report (various years), United Nations (UN), uri: https://unstats.un.org, publisher: UN Statistics Division",
+          "topics": [
+            {
+              "id": "19",
+              "value": "Climate Change"
+            },
+            {
+              "id": "8",
+              "value": "Health "
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "task": "unemployment",
+    "series": "SL.UEM.TOTL.ZS",
+    "original_filename": "unemployment_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": "100",
+        "total": 1
+      },
+      [
+        {
+          "id": "SL.UEM.TOTL.ZS",
+          "name": "Unemployment, total (% of total labor force) (modeled ILO estimate)",
+          "unit": "",
+          "source": {
+            "id": "2",
+            "value": "World Development Indicators"
+          },
+          "sourceNote": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment.",
+          "sourceOrganization": "ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+          "topics": [
+            {
+              "id": "4",
+              "value": "Education "
+            },
+            {
+              "id": "10",
+              "value": "Social Protection & Labor"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "task": "women_in_parliament",
+    "series": "SG.GEN.PARL.ZS",
+    "original_filename": "women_in_parliament_metadata.json",
+    "metadata": [
+      {
+        "page": 1,
+        "pages": 1,
+        "per_page": "100",
+        "total": 1
+      },
+      [
+        {
+          "id": "SG.GEN.PARL.ZS",
+          "name": "Proportion of seats held by women in national parliaments (%)",
+          "unit": "",
+          "source": {
+            "id": "2",
+            "value": "World Development Indicators"
+          },
+          "sourceNote": "Women in parliaments are the percentage of parliamentary seats in a single or lower chamber held by women.",
+          "sourceOrganization": "Monthly ranking of women in national parliaments, Inter-Parliamentary Union (IPU), uri: https://data.ipu.org/women-ranking/, note: For the year of 1998, the data is as of August 10, 1998., type: Excel, date accessed: 2026-03-29",
+          "topics": [
+            {
+              "id": "13",
+              "value": "Public Sector "
+            },
+            {
+              "id": "17",
+              "value": "Gender"
+            },
+            {
+              "id": "15",
+              "value": "Social Development "
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

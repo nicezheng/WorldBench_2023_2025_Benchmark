@@ -1,0 +1,189 @@
+[
+  {
+    "task": "agricultural_land_percent",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the percent of total land area that is agricultural. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the percent of total land area that is agricultural for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "37.988"
+      }
+    ]
+  },
+  {
+    "task": "co2_emissions",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the amount of carbon dioxide emissions in metric tonnes per capita. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the amount of carbon dioxide emissions in metric tonnes per capita for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "4.042"
+      }
+    ]
+  },
+  {
+    "task": "education_expenditure",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the government expenditure on education as a total percent of GDP. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the government expenditure on education as a total percent of GDP for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "5.168"
+      }
+    ]
+  },
+  {
+    "task": "electricity_access_percent",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the percent of the total population that has access to electricity. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the percent of the total population that has access to electricity for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "100"
+      }
+    ]
+  },
+  {
+    "task": "gdp",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the GDP measured in US dollars. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the GDP measured in US dollars for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "791278247811.525"
+      }
+    ]
+  },
+  {
+    "task": "gdp_ppp",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the GDP at purchasing power parity (PPP) per person employed. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the GDP at purchasing power parity (PPP) per person employed for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "128765.288"
+      }
+    ]
+  },
+  {
+    "task": "maternal_mortality_ratio",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the maternal mortality ratio as number of deaths per 100,000 live births. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the maternal mortality ratio as number of deaths per 100,000 live births for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "7"
+      }
+    ]
+  },
+  {
+    "task": "population",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the total population. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the total population for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "8,703,771"
+      }
+    ]
+  },
+  {
+    "task": "renewable_percent",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the renewable energy consumption as a percent of total final energy consumption. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the renewable energy consumption as a percent of total final energy consumption for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "26.37"
+      }
+    ]
+  },
+  {
+    "task": "unemployment",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the unemployment as a percent of the total labor force. You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the unemployment as a percent of the total labor force for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "4.707"
+      }
+    ]
+  },
+  {
+    "task": "women_in_parliament",
+    "messages": [
+      {
+        "role": "system",
+        "content": "I will ask you factual questions about countries. Specifically, I will ask you for the proportion of seats held by women in national parliaments (as a percent). You will answer as concisely as possible - only answer with the number! First I will give an example with the answer. Then I will ask you my question, and you will provide the answer in the same way."
+      },
+      {
+        "role": "user",
+        "content": "What is the proportion of seats held by women in national parliaments (as a percent) for the country Switzerland?  Do not answer in a complete sentence - only provide the number!"
+      },
+      {
+        "role": "assistant",
+        "content": "41.833"
+      }
+    ]
+  }
+]
